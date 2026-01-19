@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natalia Ligabo</h1>
 <h3 align="center">Biomedical Scientist & Computer Engineering Student | HealthTech & Social Impact</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natalialigabo&label=Profile%20views&color=0e75b6&style=flat" alt="natalialigabo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natalialigabo" /></a> </p>
 
 - 🔭 I’m currently working on [HeartGuard (IoMT](https://github.com/natalialigabo/Heartguard.git)
@@ -24,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natalialigabo&show_icons=true&locale=en&layout=compact" alt="natalialigabo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natalialigabo&" alt="natalialigabo" /></p>
