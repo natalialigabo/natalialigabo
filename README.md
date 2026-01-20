@@ -52,7 +52,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natalialigabo&show_icons=true&theme=tokyonight&hide_border=true" alt="Natalia's Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natalialigabo&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Natalia's Top Langs" height="180"/>
 </p>
 <p align="center">
