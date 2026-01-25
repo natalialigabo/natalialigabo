@@ -54,6 +54,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natalialigabo&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Natalia's Top Langs" height="180"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natalialigabo&theme=tokyonight&hide_border=true" alt="Natalia's Streak" />
-</p>
+
